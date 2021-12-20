@@ -1,2 +1,1 @@
 # AlgorithmsFromLeetcode
-# AlgorithmsFromLeetcode
